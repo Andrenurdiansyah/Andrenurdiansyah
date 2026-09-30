@@ -1,6 +1,10 @@
 Hi there, I'm Andre Nurdiansyah 👋<br>
 ![Profile Views](https://komarev.com/ghpvc/?username=Andrenurdiansyah&label=Profile%20Views&color=0e75b6&style=flat)
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+Enthusiast;Automation+Builder" alt="Typing Animation" />
+</div>
+
 A passionate **Full-Stack Developer**, **AI Enthusiast**, and **Automation Builder** based in Indonesia (GMT+7). I focus on writing clean, maintainable code and building user-centric applications. Highly adaptable and communicative, I thrive in fully remote and asynchronous environments.
 
 ## 🚀 About Me
@@ -107,6 +111,8 @@ A passionate **Full-Stack Developer**, **AI Enthusiast**, and **Automation Build
   <img src="https://github-stats-extended.vercel.app/api?username=Andrenurdiansyah&show_icons=true&theme=radical" alt="Statistik GitHub" height="165" />
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Andrenurdiansyah&layout=compact&theme=radical" alt="Bahasa Pemrograman" height="165" />
 </div>
+
+
 
 
 
