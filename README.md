@@ -28,3 +28,17 @@ A passionate Full stack Developer , AI Enthusiast , And Builder Automation based
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@andre_nurdiansyah)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrehirata90@gmail.com)
 
+
+## 🚀 Featured Projects
+
+<a href="https://simulasikreditmu.my.id">
+  <img src="https://img.shields.io/badge/🌐%20Live%20Demo-simulasiKreditmu.my.id-2ea44f?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/Andrenurdiansyah/simulasikreditmu">
+  <img src="https://img.shields.io/badge/📦%20Source%20Code-GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+
+**simulasikreditmu.my.id**  
+Motorcycle credit simulation platform built with Next.js, TypeScript, and Tailwind CSS.
+
