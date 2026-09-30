@@ -2,13 +2,14 @@ Hi there, I'm Andre Nurdiansyah 👋
 
 A passionate Full stack Developer , AI Enthusiast , And Builder Automation based in Indonesia (GMT+7). I focus on writing clean, maintainable code and building user-centric applications. I am highly adaptable, communicative, and ready to thrive in fully remote and asynchronous environments.
 ## 🚀 About Me
-🔭 I’m currently working on  my personal portfolio
 
-🌱 I’m currently learning AI Automation & Web Scraping.
+🔭 I’m currently working on my personal portfolio and building projects around AI & automation.
+
+💼 I work in the financial services industry in Indonesia, focused on business information systems and technology.
+
+🤖 Exploring AI, automation, and digital product development.
 
 💬 Ask me about PHP , Laravel , Automation Builder & Data management.
-
-📫 How to reach me: andrehirata90@gmail.com
 
 ⚡ Fun fact: I spend more time naming variables than writing actual Logic
 
