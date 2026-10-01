@@ -20,6 +20,7 @@ A passionate **Full-Stack Web Developer**, **AI Enthusiast**, and **Automation B
 ⚡ **Fun fact:** I probably spend more time naming variables than writing the actual logic. 😅
 
 <br>
+
 ## 🛠️ Tech Stack & Tools
 
 **Backend & Languages** <br>
@@ -51,10 +52,11 @@ A passionate **Full-Stack Web Developer**, **AI Enthusiast**, and **Automation B
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@andre_nurdiansyah)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:andrehirata90@gmail.com)
 
-<br><br>
+<br>
+
 ## 🚀 Featured Projects
 
-### 🏍️ [simulasikreditmu.my.id](https://simulasikreditmu.my.id)
+### [simulasikreditmu.my.id](https://simulasikreditmu.my.id)
 > Motorcycle credit simulation platform with interactive installment calculator, dynamic product pages, and SEO-focused architecture.
 
 **Tech Stack:** <br>
@@ -65,7 +67,7 @@ A passionate **Full-Stack Web Developer**, **AI Enthusiast**, and **Automation B
 
 ---
 
-### 🧾 [KamaPOS](https://kamapos.duckdns.org)
+### [KamaPOS](https://kamapos.duckdns.org)
 > Multi-tenant Point of Sale platform designed for retail and F&B businesses, with outlet management, inventory, transactions, payments, and business operations.
 
 **Tech Stack:** <br>
@@ -75,7 +77,7 @@ A passionate **Full-Stack Web Developer**, **AI Enthusiast**, and **Automation B
 
 ---
 
-### 🤖 [AffiliateKit AI](https://affiliatekit.my.id)
+### [AffiliateKit AI](https://affiliatekit.my.id)
 > AI-powered toolkit for affiliate marketers and content creators, featuring AI caption generation, viral hooks, social proof assets, and content creation utilities.
 
 **Tech Stack:** <br>
@@ -86,7 +88,7 @@ A passionate **Full-Stack Web Developer**, **AI Enthusiast**, and **Automation B
 
 ---
 
-### 🏭 [MataIndustri](https://mataindustri.duckdns.org)
+### [MataIndustri](https://mataindustri.duckdns.org)
 > Digital news portal focused on industry, business, technology, energy, finance, and economic developments in Indonesia.
 
 **Tech Stack:** <br>
