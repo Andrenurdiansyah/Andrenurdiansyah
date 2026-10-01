@@ -2,10 +2,10 @@ Hi there, I'm Andre Nurdiansyah 👋<br>
 ![Profile Views](https://komarev.com/ghpvc/?username=Andrenurdiansyah&label=Profile%20Views&color=0e75b6&style=flat)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+Enthusiast;Automation+Builder" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Full-Stack++Web+Developer;AI+Enthusiast;Automation+Builder" alt="Typing Animation" />
 </div>
 
-A passionate **Full-Stack Developer**, **AI Enthusiast**, and **Automation Builder** based in Indonesia (GMT+7). I focus on writing clean, maintainable code and building user-centric applications. Highly adaptable and communicative, I thrive in fully remote and asynchronous environments.
+A passionate **Full-Stack Web Developer**, **AI Enthusiast**, and **Automation Builder** based in Indonesia (GMT+7). I focus on writing clean, maintainable code and building user-centric applications. Highly adaptable and communicative, I thrive in fully remote and asynchronous environments.
 
 ## 🚀 About Me
 
@@ -20,7 +20,7 @@ A passionate **Full-Stack Developer**, **AI Enthusiast**, and **Automation Build
 ⚡ **Fun fact:** I probably spend more time naming variables than writing the actual logic. 😅
 
 <br>
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 **Backend & Languages** <br>
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
